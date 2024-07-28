@@ -1,0 +1,13 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-Line" viewBox="0 0 1 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5614" d="M0.561 0v32"></path>
+</symbol>
+<symbol id="icon-spoon-right" viewBox="0 0 128 32">
+<path fill="#dcca87" style="fill: var(--color1, #dcca87)" d="M107.203 30.4c11.469 0 20.797-6.461 20.797-14.4s-9.328-14.4-20.8-14.4c-10.845 0-19.776 5.779-20.707 13.126h-14.966v-3.030h-71.526v8.608h71.53v-3.030h14.966c0.934 7.347 9.862 13.126 20.704 13.126zM68.768 17.754h-66.006v-3.507h66.006v3.507zM89.171 16c0-6.534 8.090-11.853 18.035-11.853 9.942 0 18.032 5.318 18.032 11.853s-8.090 11.853-18.035 11.853c-9.942 0-18.032-5.318-18.032-11.853z"></path>
+</symbol>
+<symbol id="icon-spoon-left" viewBox="0 0 142 32">
+<path fill="#dcca87" style="fill: var(--color1, #dcca87)" d="M23.104 0c-12.74 0-23.104 7.179-23.104 16s10.364 16 23.104 16c12.053 0 21.973-6.421 23.012-14.585h16.629v3.367h79.477v-9.564h-79.477v3.367h-16.629c-1.038-8.164-10.958-14.585-23.012-14.585zM65.813 14.052h73.34v3.897h-73.34v-3.897zM43.143 16c0 7.26-8.988 13.17-20.039 13.17-11.047 0-20.036-5.909-20.036-13.17s8.985-13.17 20.036-13.17c11.051 0 20.039 5.909 20.039 13.17z"></path>
+</symbol>
+</defs>
+</svg>
