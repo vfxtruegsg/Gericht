@@ -302,3 +302,146 @@ img {
   letter-spacing: 0.04em;
   color: #aaa;
 }
+
+/* SECTION-TWO */
+
+.section-two-container {
+  position: relative;
+
+  height: 777px;
+  padding: 157px 0 152px 0;
+}
+
+.sec-two-logo {
+  position: absolute;
+  right: 30px;
+  top: -22px;
+}
+
+.reservation {
+  border: 1px solid rgba(220, 202, 135, 0.2);
+  padding: 48px 32px;
+  width: 1364px;
+  height: 466px;
+  box-shadow: 22px 30px 95px 1px rgba(0, 0, 0, 0.7);
+  background-color: #0c0c0c;
+  margin: 0 auto;
+}
+
+.list-reservation-information {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 64px;
+}
+
+.reservation-list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-reservation {
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 1.3;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.header-reservation {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 1.3;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  color: #dcca87;
+}
+
+.reservation-vields {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 32px;
+
+  margin-bottom: 64px;
+}
+
+.vields-set {
+  width: 412px;
+  height: 60px;
+  border: 1px solid #f5efdb;
+  background-color: transparent;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #aaa;
+}
+
+.reservation-btn {
+  border: 1px solid #dcca87;
+  padding: 8px 20px;
+  width: 133px;
+  height: 44px;
+  background-color: #dcca87;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.04em;
+  color: #0c0c0c;
+
+  margin: 0 auto;
+}
+
+/* SECTION-THREE */
+
+.section-three {
+  background-color: #050505;
+  height: 900px;
+}
+
+.section-three-container {
+  background-image: url(../images/background-sec-three.jpg);
+  height: 900px;
+  background-repeat: no-repeat;
+  background-size: 1920px 900px;
+  background-position: center;
+
+  position: relative;
+}
+
+.sec-three-logo {
+  position: absolute;
+  margin-top: 20px;
+}
+
+.section-three-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 64px;
+
+  position: absolute;
+  bottom: 180px;
+}
+
+.section-three-link {
+  /* display: block; */
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 1.3;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  text-decoration: underline;
+  color: #fff;
+}
